@@ -26,11 +26,11 @@
                 alt="react" width="40" height="40" />
         </a>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer" >
-            <img style="background-color: white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            <img style="background-color: white" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"
                 alt="express" width="40" height="40" />
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img style="background-color: white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            <img style="background-color: white" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg"
                 alt="nodejs" width="40" height="40" />
         </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
