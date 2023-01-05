@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **19etmm01@uohyd.ac.in**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
