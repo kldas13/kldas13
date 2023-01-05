@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm K L Das</h1>
 <h3 align="center">A passionate frontend developer with MERN stack</h3>
-<img src="[https://mobcoder.com/blog/wp-content/uploads/Mern-1.jpg](https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp)" alt="mern" align="right" width="400">
+<img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp" alt="mern" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kldas13&label=Profile%20views&color=0e75b6&style=flat" alt="kldas13" /> </p>
 
@@ -16,7 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="background-color: black;">
     <p align="left">
 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -83,5 +82,4 @@
 
     </p>
 
-</div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kldas13&show_icons=true&locale=en&layout=compact" alt="kldas13" /></p>
