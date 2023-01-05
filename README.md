@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm K L Das</h1>
 <h3 align="center">A passionate frontend developer with MERN stack</h3>
+
+<h3 align="center">I am a highly motivated and adaptable individual with a passion for building scalable, user-friendly applications. Proven ability to learn quickly and adapt to new technologies. I possess excellent communication skills and am able to work well in a team environment and contribute my skills and knowledge to a dynamic and innovative team. Seeking an opportunity to leverage my skills and continue growing as a full stack developer.</h3>
+
 <img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp" alt="mern" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kldas13&label=Profile%20views&color=0e75b6&style=flat" alt="kldas13" /> </p>
